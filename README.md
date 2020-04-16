@@ -1,5 +1,3 @@
-# buyungarif1980.github.io
-
 <!DOCTYPE html>
 <html>
   <head>
