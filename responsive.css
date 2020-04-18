@@ -1,13 +1,3 @@
-@media all {
-  .menu-icon {
-    color: white;
-    float: right;
-    font-size: 25px;
-    padding: 21px 0;
-    display: none;
-  }
-}
-
 /* Untuk Tablet */
 @media all and (max-width: 1000px) {
   .lesson {
@@ -21,6 +11,10 @@
 
   .heading h2 {
     font-size: 20px;
+  }
+
+  .menu-icon {
+    display: none;
   }
 }
 
